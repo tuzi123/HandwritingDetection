@@ -4,7 +4,7 @@ numpy==1.15.0
 pandas==0.23.3
 flask-uploads==0.2.1
 flask-wtf==0.14.2
-nltk==3.2.4
+nltk==3.6.3
 pillow==5.0.0
 pytesseract
 dill==0.2.7.1
